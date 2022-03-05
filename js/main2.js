@@ -32,7 +32,7 @@ window.onload = function () {
         callBackAjax("proizvodi", prikaziTopProizvode);
         callBackAjax("proizvodi", function (rezultat) {
             proizvodi = [...rezultat];
-            ispisKorpa();
+            //ispisKorpa();
         });
         //lmao()
         //uradiMain()
@@ -773,6 +773,7 @@ window.onload = function () {
     function ispisKorpa() {
         let velikiHtml = ``;
         let proizvodiKorpa = uzmiItemIzLocalStorage("proizvodiKorpa");
+        //if(proizvodiKorpa)
         for (pk of proizvodiKorpa) {
             for (p of proizvodi) {
                 if (pk.id == p.id) {

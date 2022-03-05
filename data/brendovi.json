@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "naziv": "AEG"
+    },
+    {
+        "id":2,
+        "naziv": "BOSCH"
+    },
+    {
+        "id":3,
+        "naziv": "Haier"
+    },
+    {
+        "id":4,
+        "naziv": "Gorenje"
+    },
+    {
+        "id":5,
+        "naziv": "LG"
+    },
+    {
+        "id":6,
+        "naziv": "SAMSUNG"
+    },
+    {
+        "id":7,
+        "naziv": "Midea"
+    }
+]

@@ -1,0 +1,1232 @@
+[
+    {
+        "id": 1,
+        "naziv": "LG GSL761PZXV",
+        "proizvodjacId": 5,
+        "slike": [
+            {
+                "naziv": "frizider1slika1",
+                "src": "img/sideBySide/frizider1slika1.jpg"
+            },
+            {
+                "naziv": "frizider1slika2",
+                "src": "img/sideBySide/frizider1slika2.jpg"
+            },
+            {
+                "naziv": "frizider1slika3",
+                "src": "img/sideBySide/frizider1slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 166669,
+            "novaCena": 149999
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 2,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 650,
+            "Nivo buke (db)": 39,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Da",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 419,
+            "Dispenzer za mrvljenje leda": "Da",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Spoljašnji LED displej" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "912 * 1790 * 738",
+            "Neto težina (kg)": 124,
+            "Položaj zamrzivača:": "Bočno"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 2,
+        "naziv": "LG GSX543MCZ",
+        "proizvodjacId": 5,
+        "slike": [
+            {
+                "naziv": "frizider2slika1",
+                "src": "img/sideBySide/frizider2slika1.jpg"
+            },
+            {
+                "naziv": "frizider2slika2",
+                "src": "img/sideBySide/frizider2slika2.jpg"
+            },
+            {
+                "naziv": "frizider2slika3",
+                "src": "img/sideBySide/frizider2slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 280550,
+            "novaCena": 249999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 2,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 635,
+            "Nivo buke (db)": 39,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Da",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 429,
+            "Dispenzer za mrvljenje leda": "Da",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Spoljašnji LED displej" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "912 * 1790 * 738",
+            "Neto težina (kg)": 138,
+            "Položaj zamrzivača:": "Bočno"
+        },
+        "novo": true,
+        "stanje":true
+    },
+    {
+        "id": 3,
+        "naziv": "LG GSX961MCCZ",
+        "proizvodjacId": 5,
+        "slike": [
+            {
+                "naziv": "frizider2slika1",
+                "src": "img/sideBySide/frizider3slika1.jpg"
+            },
+            {
+                "naziv": "frizider2slika2",
+                "src": "img/sideBySide/frizider3slika2.jpg"
+            },
+            {
+                "naziv": "frizider2slika3",
+                "src": "img/sideBySide/frizider3slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 234999,
+            "novaCena": 225999
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 2,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 550,
+            "Nivo buke (db)": 35,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Da",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 429,
+            "Dispenzer za mrvljenje leda": "Da",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Spoljašnji LED displej" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "83.3 x 189.8 x 64.8 cm",
+            "Neto težina (kg)": 112,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 4,
+        "naziv": "SAMSUNG SBSesf 7212",
+        "proizvodjacId": 6,
+        "slike": [
+            {
+                "naziv": "frizider4slika1",
+                "src": "img/sideBySide/frizider4slika1.jpg"
+            },
+            {
+                "naziv": "frizider4slika2",
+                "src": "img/sideBySide/frizider4slika2.jpg"
+            },
+            {
+                "naziv": "frizider4slika3",
+                "src": "img/sideBySide/frizider4slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 222550,
+            "novaCena": 199999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 2,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 550,
+            "Nivo buke (db)": 35,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 480,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Nema display" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "121 x 185.2 x 63 cm",
+            "Neto težina (kg)": 112,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": false,
+        "stanje": false
+    },
+    {
+        "id": 5,
+        "naziv": "AEG PremiumPlus",
+        "proizvodjacId": 1,
+        "slike": [
+            {
+                "naziv": "frizider5slika1",
+                "src": "img/sideBySide/frizider5slika1.jpg"
+            },
+            {
+                "naziv": "frizider5slika2",
+                "src": "img/sideBySide/frizider5slika2.jpg"
+            },
+            {
+                "naziv": "frizider5slika3",
+                "src": "img/sideBySide/frizider5slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 561499,
+            "novaCena": 249999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 2,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 645,
+            "Nivo buke (db)": 37,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 480,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Nema display" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "121 x 185 x 66.5 cm",
+            "Neto težina (kg)": 162,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": true,
+        "stanje":false
+    },
+    {
+        "id": 6,
+        "naziv": "Midea MDRS710FGF22",
+        "proizvodjacId": 7,
+        "slike": [
+            {
+                "naziv": "frizider1slika1",
+                "src": "img/sideBySide/frizider6slika1.jpg"
+            },
+            {
+                "naziv": "frizider6slika2",
+                "src": "img/sideBySide/frizider6slika2.jpg"
+            },
+            {
+                "naziv": "frizider1slika3",
+                "src": "img/sideBySide/frizider6slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 124499,
+            "novaCena": 119999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 2,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 550,
+            "Nivo buke (db)": 37,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 455,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "121 x 185 x 66.5 cm",
+            "Neto težina (kg)": 162,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": true,
+        "stanje": true
+    },
+    {
+        "id": 7,
+        "naziv": "BOSCH KSV36BIEP",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "frizider1slika1",
+                "src": "img/frizideri/frizider1slika1.jpg"
+            },
+            {
+                "naziv": "frizider1slika2",
+                "src": "img/frizideri/frizider1slika2.jpg"
+            },
+            {
+                "naziv": "frizider1slika3",
+                "src": "img/frizideri/frizider1slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 118989,
+            "novaCena": 109499
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 1,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 365,
+            "Nivo buke (db)": 37,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 390,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "60 x 186 x 65 cm",
+            "Neto težina (kg)": 162,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 8,
+        "naziv": "BOSCH KGN39IJEA",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "frizider2slika1",
+                "src": "img/frizideri/frizider2slika1.jpg"
+            },
+            {
+                "naziv": "frizider2slika2",
+                "src": "img/frizideri/frizider2slika2.jpg"
+            },
+            {
+                "naziv": "frizider2slika3",
+                "src": "img/frizideri/frizider2slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 96899,
+            "novaCena": 85499
+        },
+        "brojZvezdica": 0,
+        "kategorijaID": 1,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 365,
+            "Nivo buke (db)": 37,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 360,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "60 x 203 x 66 cm",
+            "Neto težina (kg)": 162,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 9,
+        "naziv": "SAMSUNG RB30J3600SA EK",
+        "proizvodjacId": 6,
+        "slike": [
+            {
+                "naziv": "frizider3slika1",
+                "src": "img/frizideri/frizider3slika1.jpg"
+            },
+            {
+                "naziv": "frizider3slika2",
+                "src": "img/frizideri/frizider3slika2.jpg"
+            },
+            {
+                "naziv": "frizider3slika3",
+                "src": "img/frizideri/frizider3slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 73499,
+            "novaCena": 65199
+        },
+        "brojZvezdica": 0,
+        "kategorijaID": 1,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 345,
+            "Nivo buke (db)": 31,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 360,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "59.5 x 178 x 66.8 cm",
+            "Neto težina (kg)": 92,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 10,
+        "naziv": "Midea MDRT294FGF02",
+        "proizvodjacId": 7,
+        "slike": [
+            {
+                "naziv": "frizider4slika1",
+                "src": "img/frizideri/frizider4slika1.jpg"
+            },
+            {
+                "naziv": "frizider4slika2",
+                "src": "img/frizideri/frizider4slika2.jpg"
+            },
+            {
+                "naziv": "frizider4slika3",
+                "src": "img/frizideri/frizider4slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 45899,
+            "novaCena": 33999
+        },
+        "brojZvezdica": 3,
+        "kategorijaID": 1,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 277,
+            "Nivo buke (db)": 21,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 360,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "59.5 x 178 x 66.8 cm",
+            "Neto težina (kg)": 75,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 11,
+        "naziv": "Midea HD-312FN",
+        "proizvodjacId": 7,
+        "slike": [
+            {
+                "naziv": "frizider5slika1",
+                "src": "img/frizideri/frizider5slika1.jpg"
+            },
+            {
+                "naziv": "frizider5slika2",
+                "src": "img/frizideri/frizider5slika2.jpg"
+            },
+            {
+                "naziv": "frizider5slika3",
+                "src": "img/frizideri/frizider5slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 39999,
+            "novaCena": 32999
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 1,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 233,
+            "Nivo buke (db)": 27,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 310,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "55 x 159 x 55 cm",
+            "Neto težina (kg)": 65,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": true,
+        "stanje":true
+    },
+    {
+        "id": 12,
+        "naziv": "BOSCH KGN39VWEP",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "frizider6slika1",
+                "src": "img/frizideri/frizider6slika1.jpg"
+            },
+            {
+                "naziv": "frizider6slika2",
+                "src": "img/drizideri/frizider6slika2.jpg"
+            },
+            {
+                "naziv": "frizider6slika3",
+                "src": "img/frizideri/frizider6slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 82399,
+            "novaCena": 78299
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 1,
+        "opis": "Zahvaljujući velikom kapacitetu od 625 litara možete da uživate u bolje organizovanom prostoru i većem kapacitetu skladištenja. Napravite zalihe hrane i uskladištite sve što vam je potrebno.",
+        "karakteristike": {       
+            "Kapacitet": 260,
+            "Nivo buke (db)": 31,
+            "Inverter linearni kompresor": "Da",
+            "Dispanzer za led": "Ne",
+            "Odeljak za održavanje vlažnosti": "Da",
+            "Potrošnja električne energije (kWh/godišnje)": 330,
+            "Dispenzer za mrvljenje leda": "Ne",
+            "Alarm za otvorena vrata": "Da",
+            "Displej": "Da" ,
+            "Total No Frost": "Da",
+            "Dimenzije proizvoda (Š x V x D)": "60 x 203 x 66 cm",
+            "Neto težina (kg)": 65,
+            "Položaj zamrzivača:": "Frontalno"
+        },
+        "novo": true,
+        "stanje":true,
+        "topPonuda": true
+    },
+    {
+        "id": 13,
+        "naziv": "AEG IKB64301XB",
+        "proizvodjacId": 1,
+        "slike": [
+            {
+                "naziv": "ugradna1slika1",
+                "src": "img/ugradnePloce/ugradna1slika1.jpg"
+            },
+            {
+                "naziv": "ugradna1slika2",
+                "src": "img/ugradnePloce/ugradna1slika2.jpg"
+            },
+            {
+                "naziv": "ugradna1slika3",
+                "src": "img/ugradnePloce/ugradna1slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 49999,
+            "novaCena": 44499
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 5,
+        "opis": "Indukcija vam pomaže da brže savladate bilo koju tehniku kuvanja i čak može da prokuva vodu za manje od 90 sekundi.",
+        "karakteristike": {       
+            "Vrsta ploče za kuvanje": "Indukciona",
+            "Boja": "Crna",
+            "Sigurnosni sistem": "Automatsko isključivanje",
+            "Način upravljanja": "Senzorsko upravljanje (Na dodir)",
+            "Priključna snaga:": " 7350 W",
+            "Širina:": "57.6cm",
+            "Dubina": "5.6cm",
+            "Automatsko prepoznavanje posuđajmer": "Da",
+            "Power Booster funkcija": "Da"
+        },
+        "novo": false,
+        "stanje":true,
+        "topPonuda": true
+    },
+    {
+        "id": 14,
+        "naziv": "BOSCH PXY875KW1E",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "ugradna2slika1",
+                "src": "img/ugradnePloce/ugradna2slika1.jpg"
+            },
+            {
+                "naziv": "ugradna2slika2",
+                "src": "img/ugradnePloce/ugradna2slika2.jpg"
+            },
+            {
+                "naziv": "ugradna2slika3",
+                "src": "img/ugradnePloce/ugradna2slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 233000,
+            "novaCena": 194549
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 5,
+        "opis": "Indukciona ploča za kuvanje sa PerfectCook i PerfectFry senzorima: savršeni rezultati kuvanja zahvaljujući automatskoj kontroli temperature.",
+        "karakteristike": {       
+            "Vrsta ploče za kuvanje": "Indukciona",
+            "Boja": "Crna",
+            "Sigurnosni sistem": "Automatsko isključivanje",
+            "Način upravljanja": "Senzorsko upravljanje (Na dodir)",
+            "Priključna snaga:": " 7400 W",
+            "Širina:": "81.6cm",
+            "Dubina": "5.2cm",
+            "Automatsko prepoznavanje posuđajmer": "Da",
+            "Power Booster funkcija": "Da"
+        },
+        "novo": true,
+        "stanje":true,
+        "topPonuda": true
+    },
+    {
+        "id": 15,
+        "naziv": "GORENJE IT640BX",
+        "proizvodjacId": 4,
+        "slike": [
+            {
+                "naziv": "ugradna3slika1",
+                "src": "img/ugradnePloce/ugradna3slika1.jpg"
+            },
+            {
+                "naziv": "ugradna3slika2",
+                "src": "img/ugradnePloce/ugradna3slika2.jpg"
+            },
+            {
+                "naziv": "ugradna3slika3",
+                "src": "img/ugradnePloce/ugradna3slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 42499,
+            "novaCena": 38999
+        },
+        "brojZvezdica": 3,
+        "kategorijaID": 5,
+        "opis": "Indukciona ploča za kuvanje sa PerfectCook i PerfectFry senzorima: savršeni rezultati kuvanja zahvaljujući automatskoj kontroli temperature.",
+        "karakteristike": {       
+            "Vrsta ploče za kuvanje": "Staklokeramička",
+            "Boja": "Crna",
+            "Sigurnosni sistem": "Automatsko isključivanje",
+            "Način upravljanja": "Senzorsko upravljanje (Na dodir)",
+            "Priključna snaga:": " 7200 W",
+            "Širina:": "60 x 52 cm",
+            "Dubina": "5.2cm",
+            "Automatsko prepoznavanje posuđajmer": "Da",
+            "Power Booster funkcija": "Da"
+        },
+        "novo": false,
+        "stanje":false
+    },
+    {
+        "id": 16,
+        "naziv": "SAMSUNG NZ64A3747DK/EO",
+        "proizvodjacId": 6,
+        "slike": [
+            {
+                "naziv": "ugradna4slika1",
+                "src": "img/ugradnePloce/ugradna4slika1.jpg"
+            },
+            {
+                "naziv": "ugradna4slika2",
+                "src": "img/ugradnePloce/ugradna4slika2.jpg"
+            },
+            {
+                "naziv": "ugradna4slika3",
+                "src": "img/ugradnePloce/ugradna4slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 85999,
+            "novaCena": 74349
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 5,
+        "opis": "Indukciona ploča za kuvanje sa PerfectCook i PerfectFry senzorima: savršeni rezultati kuvanja zahvaljujući automatskoj kontroli temperature.",
+        "karakteristike": {       
+            "Vrsta ploče za kuvanje": "Indukciona",
+            "Boja": "Crna",
+            "Sigurnosni sistem": "Automatsko isključivanje",
+            "Način upravljanja": "Senzorsko upravljanje (Na dodir)",
+            "Priključna snaga:": " 12000 W",
+            "Širina:": "59 x 52 cm",
+            "Dubina": "6 cm",
+            "Automatsko prepoznavanje posuđajmer": "Da",
+            "Power Booster funkcija": "Da"
+        },
+        "novo": true,
+        "stanje":true
+    },
+    {
+        "id": 17,
+        "naziv": "BOSCH PIF672FB1E",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "ugradna5slika1",
+                "src": "img/ugradnePloce/ugradna5slika1.jpg"
+            },
+            {
+                "naziv": "ugradna5slika2",
+                "src": "img/ugradnePloce/ugradna5slika2.jpg"
+            },
+            {
+                "naziv": "ugradna5slika3",
+                "src": "img/ugradnePloce/ugradna5slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 89999,
+            "novaCena": 83499
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 5,
+        "opis": "Indukciona ploča za kuvanje sa PerfectCook i PerfectFry senzorima: savršeni rezultati kuvanja zahvaljujući automatskoj kontroli temperature.",
+        "karakteristike": {       
+            "Vrsta ploče za kuvanje": "Indukciona",
+            "Boja": "Bela",
+            "Sigurnosni sistem": "Automatsko isključivanje",
+            "Način upravljanja": "Senzorsko upravljanje (Na dodir)",
+            "Priključna snaga:": " 7400 W",
+            "Širina:": "60 x 52 cm",
+            "Dubina": "5.2 cm",
+            "Automatsko prepoznavanje posuđajmer": "Da",
+            "Power Booster funkcija": "Da"
+        },
+        "novo": false,
+        "stanje":false,
+        "topPonuda": true
+    },
+    {
+        "id": 18,
+        "naziv": "BOSCH PIB375FB1E",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "ugradna6slika1",
+                "src": "img/ugradnePloce/ugradna6slika1.jpg"
+            },
+            {
+                "naziv": "ugradna6slika2",
+                "src": "img/ugradnePloce/ugradna6slika2.jpg"
+            },
+            {
+                "naziv": "ugradna6slika3",
+                "src": "img/ugradnePloce/ugradna6slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 49449,
+            "novaCena": 42029
+        },
+        "brojZvezdica": 0,
+        "kategorijaID": 5,
+        "opis": "Indukciona ploča za kuvanje sa PerfectCook i PerfectFry senzorima: savršeni rezultati kuvanja zahvaljujući automatskoj kontroli temperature.",
+        "karakteristike": {       
+            "Vrsta ploče za kuvanje": "Indukciona",
+            "Boja": "Crna",
+            "Sigurnosni sistem": "Automatsko isključivanje",
+            "Način upravljanja": "Senzorsko upravljanje (Na dodir)",
+            "Priključna snaga:": " 3700 W",
+            "Širina:": "30 x 52 cm",
+            "Dubina": "5.2 cm",
+            "Automatsko prepoznavanje posuđajmer": "Da",
+            "Power Booster funkcija": "Ne"
+        },
+        "novo": true,
+        "stanje":true
+    },
+    {
+        "id": 19,
+        "naziv": "AEG LTX7C562E",
+        "proizvodjacId": 1,
+        "slike": [
+            {
+                "naziv": "masina1slika1",
+                "src": "img/vesMasine/masina1slika1.jpg"
+            },
+            {
+                "naziv": "masina1slika2",
+                "src": "img/vesMasine/masina1slika2.jpg"
+            },
+            {
+                "naziv": "masina1slika3",
+                "src": "img/vesMasine/masina1slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 83499,
+            "novaCena": 76999
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 3,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja",
+        "karakteristike": {       
+            "Energetski razred": "E",
+            "Broj obrtaja centrifuge": "1500 obr/min",
+            "Kapacitet": "6 kg",
+            "Nivo buke": "77 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "40 x 89 x 60 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": true,
+        "stanje":false
+    },
+    {
+        "id": 20,
+        "naziv": "AEG L6FEG49S",
+        "proizvodjacId": 1,
+        "slike": [
+            {
+                "naziv": "masina2slika1",
+                "src": "img/vesMasine/masina2slika1.jpg"
+            },
+            {
+                "naziv": "masina2slika2",
+                "src": "img/vesMasine/masina2slika2.jpg"
+            },
+            {
+                "naziv": "masina2slika3",
+                "src": "img/vesMasine/masina2slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 77999,
+            "novaCena": 70999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 3,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja",
+        "karakteristike": {       
+            "Energetski razred": "A++",
+            "Broj obrtaja centrifuge": "1400 obr/min",
+            "Kapacitet": "9 kg",
+            "Nivo buke": "75 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "60 x 85 x 63 cm ",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": false,
+        "stanje":false
+    },
+    {
+        "id": 21,
+        "naziv": "LG F4J5QN4W",
+        "proizvodjacId": 5,
+        "slike": [
+            {
+                "naziv": "masina3slika1",
+                "src": "img/vesMasine/masina3slika1.jpg"
+            },
+            {
+                "naziv": "masina3slika2",
+                "src": "img/vesMasine/masina3slika2.jpg"
+            },
+            {
+                "naziv": "masina3slika3",
+                "src": "img/vesMasine/masina3slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 77999,
+            "novaCena": 70999
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 3,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja",
+        "karakteristike": {       
+            "Energetski razred": "A+++",
+            "Broj obrtaja centrifuge": "1400 obr/min",
+            "Kapacitet": "7 kg",
+            "Nivo buke": "75 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "60 x 85 x 56 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": false,
+        "stanje":true,
+        "topPonuda": true
+    },
+    {
+        "id": 22,
+        "naziv": "LG F4J5QN4W",
+        "proizvodjacId": 6,
+        "slike": [
+            {
+                "naziv": "masina4slika1",
+                "src": "img/vesMasine/masina4slika1.jpg"
+            },
+            {
+                "naziv": "masina4slika2",
+                "src": "img/vesMasine/masina4slika2.jpg"
+            },
+            {
+                "naziv": "masina4slika3",
+                "src": "img/vesMasine/masina4slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 134999,
+            "novaCena": 117999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 3,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja",
+        "karakteristike": {       
+            "Energetski razred": "A+++",
+            "Broj obrtaja centrifuge": "1400 obr/min",
+            "Kapacitet": "9 kg",
+            "Nivo buke": "72 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "60 x 85 x 60 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 23,
+        "naziv": "BOSCH WAL28PH1BY",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "masina5slika1",
+                "src": "img/vesMasine/masina5slika1.jpg"
+            },
+            {
+                "naziv": "masina5slika2",
+                "src": "img/vesMasine/masina5slika2.jpg"
+            },
+            {
+                "naziv": "masina5slika3",
+                "src": "img/vesMasine/masina5slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 93717,
+            "novaCena": 89719
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 3,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja",
+        "karakteristike": {       
+            "Energetski razred": "A+++",
+            "Broj obrtaja centrifuge": "1550 obr/min",
+            "Kapacitet": "12 kg",
+            "Nivo buke": "75 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "59.8 x 84.8 x 59 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": false,
+        "stanje":true
+    },
+    {
+        "id": 24,
+        "naziv": "GORENJE WNEI 62 SBS",
+        "proizvodjacId": 4,
+        "slike": [
+            {
+                "naziv": "masina6slika1",
+                "src": "img/vesMasine/masina6slika1.jpg"
+            },
+            {
+                "naziv": "masina6slika2",
+                "src": "img/vesMasine/masina6slika2.jpg"
+            },
+            {
+                "naziv": "masina6slika3",
+                "src": "img/vesMasine/masina6slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 42999,
+            "novaCena": 38499
+        },
+        "brojZvezdica": 0,
+        "kategorijaID": 3,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja",
+        "karakteristike": {       
+            "Energetski razred": "A+++",
+            "Broj obrtaja centrifuge": "1400 obr/min",
+            "Kapacitet": "9 kg",
+            "Nivo buke": "72 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "59.8 x 84.8 x 59 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": true,
+        "stanje":false,
+        "topPonuda": true
+    },
+    {
+        "id": 25,
+        "naziv": "BOSCH WTW85461BY",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "masina6slika1",
+                "src": "img/susare/susara1slika1.jpg"
+            },
+            {
+                "naziv": "masina6slika2",
+                "src": "img/susare/susara1slika2.jpg"
+            },
+            {
+                "naziv": "masina6slika3",
+                "src": "img/susare/susara1slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 94210,
+            "novaCena": 83499
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 4,
+        "opis": "Posebni programi: Vuna, Mešano, Peškiri, Vremenski program - toplo, Vremenski program - hladno, Sportswear, Super 40, Bluze/košulje, Fini veš. Dodatni programi za sušenje: Mixture, shirts/blouses, Sportswear, Super 40, Time program cold, Time program warm, towels, Woollens finish",
+        "karakteristike": {       
+            "Energetski razred": "A++",
+            "Broj obrtaja centrifuge": "1400 obr/min",
+            "Kapacitet": "7 kg",
+            "Nivo buke": "72 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "59.8 x 84.2 x 59.9 cm",
+            "Tajmer": "Ne",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": true,
+        "stanje":true,
+        "topPonuda": true
+    },
+    {
+        "id": 26,
+        "naziv": "BOSCH WTH83252BY",
+        "proizvodjacId": 2,
+        "slike": [
+            {
+                "naziv": "susara bas dobra u fulu",
+                "src": "img/susare/susara2slika1.jpg"
+            },
+            {
+                "naziv": "frontalna slika susare2",
+                "src": "img/susare/susara2slika2.jpg"
+            },
+            {
+                "naziv": "bocna slika iz desnog ugla susare",
+                "src": "img/susare/susara2slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 78000,
+            "novaCena": 70590
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 4,
+        "opis": "Veš mašina koja će zauzeti malo prostora a pružiti maksimalnu efikasnost pri pranju i ceđenju veša po vašoj želji i sa odloženim pošetkom pranja.  AutoDri: nežno suši veš do željenog stepena suvoće.Dizajn protiv vibracija: izuzetno stabilan i prijatno tih zahvaljujući posebnoj zaštiti od vibracija.",
+        "karakteristike": {       
+            "Energetski razred": "A+",
+            "Broj obrtaja centrifuge": "1200 obr/min",
+            "Kapacitet": "12 kg",
+            "Nivo buke": "67 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "59.8 x 84.2 x 59.9 cm",
+            "Tajmer": "Ne",
+            "Inverter motor": "Da",
+            "Odložen start": "Ne"
+        },
+        "novo": false,
+        "stanje":true,
+        "topPonuda": false
+    },
+    {
+        "id": 27,
+        "naziv": "SAMSUNG DV90T6240LH S7",
+        "proizvodjacId": 6,
+        "slike": [
+            {
+                "naziv": "susara bas dobra u fulu",
+                "src": "img/susare/susara3slika1.jpg"
+            },
+            {
+                "naziv": "frontalna slika susare2",
+                "src": "img/susare/susara3slika2.jpg"
+            },
+            {
+                "naziv": "bocna slika iz desnog ugla susare",
+                "src": "img/susare/susara3slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 125499,
+            "novaCena": 112999
+        },
+        "brojZvezdica": 5,
+        "kategorijaID": 4,
+        "opis": "Svetlo unutar bubnja, Zaključavanje za decu, Vrsta bubnja - Mixed Load Bell / Damp Alert, OptimalDry System, Odloženi kraj, Birač vremena sušenja, Sprečavanje gužvanja, OptimalDry System, Mixed Load Bell / Damp Alert",
+        "karakteristike": {       
+            "Energetski razred": "A+++",
+            "Broj obrtaja centrifuge": "1450 obr/min",
+            "Kapacitet": "12 kg",
+            "Nivo buke": "62 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "60 x 85 x 60 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": true,
+        "stanje":true,
+        "topPonuda": false
+    },
+    {
+        "id": 28,
+        "naziv": "SAMSUNG DV80TA220TE LE",
+        "proizvodjacId": 6,
+        "slike": [
+            {
+                "naziv": "susara bas dobra u fulu",
+                "src": "img/susare/susara4slika1.jpg"
+            },
+            {
+                "naziv": "frontalna slika susare2",
+                "src": "img/susare/susara4slika2.jpg"
+            },
+            {
+                "naziv": "bocna slika iz desnog ugla susare",
+                "src": "img/susare/susara4slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 102999,
+            "novaCena": 91499
+        },
+        "brojZvezdica": 4,
+        "kategorijaID": 4,
+        "opis": "Štedi novac i čuva životnu sredinu zahvaljujući manjem trošenju struje*. Tehnologija toplotne pumpe omogućava energetski efikasno, štedljivo i nežno sušenje odeće. Svrstana je u A+++ klasu energetski efikasnih uređaja, jer za zagrevanje vazduha umesto struje koristi „rashladno sredstvo“.",
+        "karakteristike": {       
+            "Energetski razred": "A+++",
+            "Broj obrtaja centrifuge": "1450 obr/min",
+            "Kapacitet": "12 kg",
+            "Nivo buke": "62 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "60 x 85 x 60 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": false,
+        "stanje":true,
+        "topPonuda": false
+    }, 
+    {
+        "id": 29,
+        "naziv": "MIDEA H8A3TE-S",
+        "proizvodjacId": 7,
+        "slike": [
+            {
+                "naziv": "susara za vas dom midea",
+                "src": "img/susare/susara6slika1.jpg"
+            },
+            {
+                "naziv": "bela susara koja malo trosi a puno daje i susi",
+                "src": "img/susare/susara6slika2.jpg"
+            },
+            {
+                "naziv": "fina susara, dobro susi i mekan bude ves",
+                "src": "img/susare/susara6slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 59499,
+            "novaCena": 42999
+        },
+        "brojZvezdica": 3,
+        "kategorijaID": 4,
+        "opis": "Štedi novac i čuva životnu sredinu zahvaljujući manjem trošenju struje*. Tehnologija toplotne pumpe omogućava energetski efikasno, štedljivo i nežno sušenje odeće. Svrstana je u A+++ klasu energetski efikasnih uređaja, jer za zagrevanje vazduha umesto struje koristi „rashladno sredstvo“.",
+        "karakteristike": {       
+            "Energetski razred": "A",
+            "Broj obrtaja centrifuge": "1200 obr/min",
+            "Kapacitet": "7 kg",
+            "Nivo buke": "65 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "59.5 x 84.5 x 64 cm",
+            "Tajmer": "Ne",
+            "Inverter motor": "Da",
+            "Odložen start": "Ne"
+        },
+        "novo": false,
+        "stanje":true,
+        "topPonuda": false
+    },
+    {
+        "id": 30,
+        "naziv": "MIDEA MDC90-CH01",
+        "proizvodjacId": 7,
+        "slike": [
+            {
+                "naziv": "susara za vas dom midea",
+                "src": "img/susare/susara5slika1.jpg"
+            },
+            {
+                "naziv": "bela susara koja malo trosi a puno daje i susi",
+                "src": "img/susare/susara5slika2.jpg"
+            },
+            {
+                "naziv": "fina susara, dobro susi i mekan bude ves",
+                "src": "img/susare/susara5slika3.jpg"
+            }
+        ],
+        "cena": {
+            "staraCena": 77999,
+            "novaCena": 696900
+        },
+        "brojZvezdica": 3,
+        "kategorijaID": 4,
+        "opis": "Štedi novac i čuva životnu sredinu zahvaljujući manjem trošenju struje*. Tehnologija toplotne pumpe omogućava energetski efikasno, štedljivo i nežno sušenje odeće. Svrstana je u A+++ klasu energetski efikasnih uređaja, jer za zagrevanje vazduha umesto struje koristi „rashladno sredstvo“.",
+        "karakteristike": {       
+            "Energetski razred": "A+",
+            "Broj obrtaja centrifuge": "1200 obr/min",
+            "Kapacitet": "9 kg",
+            "Nivo buke": "67 dB",
+            "Priključna snaga:": " 230 W",
+            "Dimenzije:": "59.5 x 84.5 x 64 cm",
+            "Tajmer": "Da",
+            "Inverter motor": "Da",
+            "Odložen start": "Da"
+        },
+        "novo": false,
+        "stanje":true,
+        "topPonuda": true
+    }
+]

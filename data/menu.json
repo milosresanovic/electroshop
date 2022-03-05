@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "naziv":"Početna",
+        "href": "index.html"
+    },
+    {
+        "id":2,
+        "naziv":"Proizvodi",
+        "href": "store.html"
+    },
+    {
+        "id":4,
+        "naziv":"O autoru",
+        "href": "https://milosresanovic.github.io/mrportfolio/"
+    }
+]

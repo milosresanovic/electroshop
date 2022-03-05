@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "naziv":"Frižideri"
+    },
+    {
+        "id":2,
+        "naziv":"Side by side frižideri"
+    },
+    {
+        "id":3,
+        "naziv":"Veš mašine"
+    },
+    {
+        "id":4,
+        "naziv":"Sušare"
+    },
+    {
+        "id":5,
+        "naziv":"Ugradne ploče"
+    }
+]

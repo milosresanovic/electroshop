@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "naziv": "Side by side",
+        "slika": "img/sideBySide/kolekcija.jpg",
+        "kat_id": 2
+    },
+    {
+        "id": 2,
+        "naziv": "Indukcione ploče",
+        "slika": "img/ugradnePloce/kolekcija.jpg",
+        "kat_id": 5
+    },
+    {
+        "id": 3,
+        "naziv": "Sušare",
+        "slika": "img/susare/kolekcija.jpg",
+        "kat_id": 4
+    }
+]

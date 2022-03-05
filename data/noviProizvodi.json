@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "naziv": "yyy",
+        "kategorijaID":1,
+
+        "slika":{
+            "src": "assets/img/product07.png",
+            "alt": ""
+        },
+        "cena": {
+            "staraCena": 123,
+            "novaCena": 1234
+        },
+        "brojZvezdica": 4,
+        "daLiJeNovo": true,
+        "popust": 30
+    }
+]

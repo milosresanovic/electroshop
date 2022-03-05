@@ -805,7 +805,12 @@ window.onload = function () {
     function ispisKorpa() {
         let velikiHtml = ``;
         let proizvodiKorpa = uzmiItemIzLocalStorage("proizvodiKorpa");
-        //if(proizvodiKorpa)
+        if(proizvodiKorpa.length==0){
+            $("#naslov-korpa").html("Nema proizvoda u korpi... <u><a href='store.html'> nazad u prodavnicu</a></u></br>")
+            $("#naslov-korpa").addClass("crveno")
+            $("#dugmeDoPlacanja").prop("href", "javascript:void(0)")
+            $("#sakrijAkoJePrazno").addClass("hide")
+        }
         for (pk of proizvodiKorpa) {
             for (p of proizvodi) {
                 if (pk.id == p.id) {

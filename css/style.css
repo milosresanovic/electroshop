@@ -1435,6 +1435,15 @@ textarea.input {
   margin: 15px;
 }
 
+.products-slickk .slick-list {
+  padding-bottom: 60px;
+  margin-bottom: -60px;
+  z-index: 2;
+}
+
+.products-slickk .product.slick-slide {
+  margin: 15px;
+}
 .products-tabs>.tab-pane {
   display: block;
   height: 0;

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://milosresanovic.github.io/electroshop/index.html</loc>
+  <lastmod>2022-03-05T14:35:46+00:00</lastmod>
+  <priority>1</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://milosresanovic.github.io/electroshop/store.html</loc>
+  <lastmod>2022-03-05T14:35:46+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://milosresanovic.github.io/electroshop/product.html</loc>
+  <lastmod>2022-03-05T14:35:46+00:00</lastmod>
+  <priority>0.80</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://milosresanovic.github.io/electroshop/cart.html</loc>
+  <lastmod>2022-03-05T14:35:46+00:00</lastmod>
+  <priority>0.50</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://milosresanovic.github.io/electroshop/checkout.html</loc>
+  <lastmod>2022-03-05T14:35:46+00:00</lastmod>
+  <priority>0.50</priority>
+  <changefreq>monhtly</changefreq>
+</url>
+
+
+</urlset>

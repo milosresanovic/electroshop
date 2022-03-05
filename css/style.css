@@ -935,6 +935,11 @@ textarea.input {
   } */
   .header-ctn .menu-toggle {
     display: inline-block;
+    width: 70px;
+    margin-left: 5px;
+  }
+  #maliPrikazKorpe{
+    width: 70px;
   }
   #responsive-nav {
     position: fixed;
@@ -2607,4 +2612,14 @@ textarea.input {
 }
 .shopingcarttotal{
   margin: 0px !important;
+}
+#maliPrikazKorpeStavke{
+  z-index: 1000;
+}
+@media only screen and (max-width: 420px){
+  .cart-dropdown {
+    position: absolute;
+    right: -60px;
+   
+  }
 }

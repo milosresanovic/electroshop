@@ -651,7 +651,7 @@ window.onload = function () {
                         <h3 class="product-name"><a href="#">${pomNiz[i].naziv}</a></h3>
                         <h4 class="product-price"><span class="qty">${nizKolicine[i]}x</span>${pomNiz[i].cena.novaCena}</h4>
                     </div>
-                    <button class="delete"><i class="fa fa-close"></i></button>
+                    <!--<button class="delete"><i class="fa fa-close"></i></button>-->
                 </div>    
             `
         }

@@ -245,9 +245,9 @@ window.onload = function () {
         let html = `<ul class="main-nav nav navbar-nav">`;
         for (let i = 0; i < niz.length; i++) {
             if (niz[i].id == index) {
-                html += `<li class="active"><a href="${niz[i].href}">${niz[i].naziv}</a></li>`;
+                html += `<li class="active"><a target="_blank" href="${niz[i].href}">${niz[i].naziv}</a></li>`;
             } else {
-                html += `<li><a href="${niz[i].href}">${niz[i].naziv}</a></li>`;
+                html += `<li><a target="_blank" href="${niz[i].href}">${niz[i].naziv}</a></li>`;
             }
         }
         html += `</ul>`;

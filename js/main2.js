@@ -630,63 +630,68 @@ window.onload = function () {
     /* Funkcija za mali ispis korpe kad se klikne na nju */
     function maliPrikazKorpe() {
         let proizvodiKorpaId = uzmiItemIzLocalStorage("proizvodiKorpa");
-        html = `<div class="cart-list">`;
-        let pomNiz = []
-        let nizKolicine = []
-        for (x of proizvodi) {
-            for (p of proizvodiKorpaId) {
-                if (x.id == p.id) {
-                    pomNiz.push(x);
-                    nizKolicine.push(p.kolicina)
-                }
-            }
-        }
-        for (let i = 0; i < pomNiz.length; i++) {
-            html += `
-                <div class="product-widget">
-                    <div class="product-img">
-                        <img src="${pomNiz[i].slike[0].src}" alt="">
-                    </div>
-                    <div class="product-body">
-                        <h3 class="product-name"><a href="#">${pomNiz[i].naziv}</a></h3>
-                        <h4 class="product-price"><span class="qty">${nizKolicine[i]}x</span>${pomNiz[i].cena.novaCena}</h4>
-                    </div>
-                    <!--<button class="delete"><i class="fa fa-close"></i></button>-->
-                </div>    
-            `
-        }
-        html += `</div>`;
-        html += `
-        <div class="cart-summary">
-            <small>${pomNiz.length} ${vratiMnozinuJedniuinu(pomNiz.length)}</small>
-            <h5>Račun: ${izracunajSumu(proizvodiKorpaId, proizvodi)} rsd.</h5>
-        </div>
-        `
-        html += `
-        <div class="cart-btns">
-            <a href="cart.html">Pregled korpe</a>
-            <a href="checkout.html">Plaćanje  <i class="fa fa-arrow-circle-right"></i></a>
-        </div>
-        `
-        $("#maliPrikazKorpeStavke").html(html);
-
-        function izracunajSumu(proizvodiKorpaId, proizvodi) {
-            let suma = 0;
-            for (p of proizvodiKorpaId) {
-                for (x of proizvodi) {
-                    if (p.id == x.id) {
-                        suma += p.kolicina * x.cena.novaCena;
+        if(proizvodiKorpaId){
+            html = `<div class="cart-list">`;
+            let pomNiz = []
+            let nizKolicine = []
+            for (x of proizvodi) {
+                for (p of proizvodiKorpaId) {
+                    if (x.id == p.id) {
+                        pomNiz.push(x);
+                        nizKolicine.push(p.kolicina)
                     }
                 }
             }
-            return suma;
+            for (let i = 0; i < pomNiz.length; i++) {
+                html += `
+                    <div class="product-widget">
+                        <div class="product-img">
+                            <img src="${pomNiz[i].slike[0].src}" alt="">
+                        </div>
+                        <div class="product-body">
+                            <h3 class="product-name"><a href="#">${pomNiz[i].naziv}</a></h3>
+                            <h4 class="product-price"><span class="qty">${nizKolicine[i]}x</span>${pomNiz[i].cena.novaCena}</h4>
+                        </div>
+                        <!--<button class="delete"><i class="fa fa-close"></i></button>-->
+                    </div>    
+                `
+            }
+            html += `</div>`;
+            html += `
+            <div class="cart-summary">
+                <small>${pomNiz.length} ${vratiMnozinuJedniuinu(pomNiz.length)}</small>
+                <h5>Račun: ${izracunajSumu(proizvodiKorpaId, proizvodi)} rsd.</h5>
+            </div>
+            `
+            html += `
+            <div class="cart-btns">
+                <a href="cart.html">Pregled korpe</a>
+                <a href="checkout.html">Plaćanje  <i class="fa fa-arrow-circle-right"></i></a>
+            </div>
+            `
+            $("#maliPrikazKorpeStavke").html(html);
+    
+            function izracunajSumu(proizvodiKorpaId, proizvodi) {
+                let suma = 0;
+                for (p of proizvodiKorpaId) {
+                    for (x of proizvodi) {
+                        if (p.id == x.id) {
+                            suma += p.kolicina * x.cena.novaCena;
+                        }
+                    }
+                }
+                return suma;
+            }
+            function vratiMnozinuJedniuinu(duzina) {
+                let html = ``;
+                if (duzina % 10 == 1)
+                    return html += `Proizvod u korpi`
+                else
+                    return html += `Proizvoda u korpi`
+            }
         }
-        function vratiMnozinuJedniuinu(duzina) {
-            let html = ``;
-            if (duzina % 10 == 1)
-                return html += `Proizvod u korpi`
-            else
-                return html += `Proizvoda u korpi`
+        else{
+            $("#maliPrikazKorpeStavke").html("Korpa je prazna");
         }
     }
 

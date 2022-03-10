@@ -32,10 +32,9 @@ window.onload = function () {
         callBackAjax("proizvodi", prikaziTopProizvode);
         callBackAjax("proizvodi", function (rezultat) {
             proizvodi = [...rezultat];
-            //ispisKorpa();
         });
-        //lmao()
-        //uradiMain()
+        ispisFooter();
+
     }
     if (url == "/store.html") {
         callBackAjax("menu", function (rezultat) {
@@ -51,6 +50,7 @@ window.onload = function () {
         callBackAjax("brendovi", ispisBrendovaFilter);
         callBackAjax("proizvodi", ispisProizvoda);
         uradiMain();
+        ispisFooter();
     }
     var pomId;
     if (url == "/product.html") {
@@ -66,6 +66,7 @@ window.onload = function () {
             detaljanIspisProizovoda(rezultat, params.id)
         });
         callBackAjax("proizvodi", dohvatiSveProizvode);
+        ispisFooter();
     }
     if (url == "/checkout.html") {
         callBackAjax("menu", function (rezultat) {
@@ -75,6 +76,7 @@ window.onload = function () {
         setTimeout(function () {
             ispisUnutarPlacanjeProizvode(); // will show devices array
         }, 100)
+        ispisFooter();
         
     }
     if (url == "/cart.html") {
@@ -86,9 +88,8 @@ window.onload = function () {
             ispisKorpa();
             izdracunajPodatkeRacuna()
         });
+        ispisFooter();
 
-        /* callBackAjax("proizvodi", dohvatiSveProizvode); */
-        //ispisKorpa();
     }
 
     /* Dohvatanje svih brendova */
@@ -1253,5 +1254,113 @@ function izbaciIzKorpe(id) {
     obrisi.remove()
     osveziKorpu();
     ispisBrojaStavkiKorpe()
+}
+
+/* Ispisivanje futera */
+function ispisFooter(){
+    html=``;
+    html+=`
+
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-xs-6">
+            <div class="footer">
+              <h3 class="footer-title">O nama</h3>
+              <p>
+                Electro. je sa Vama od 2012 godine, sa najboljim kvalitetom i
+                najnižim cenama! Sve što Vam treba.
+              </p>
+            </div>
+          </div>
+
+          <!-- <div class="col-md-3 col-xs-6">
+            <div class="footer">
+              <h3 class="footer-title">Kategorije</h3>
+              <ul class="footer-links">
+                <li><a href="">Frižideri</a></li>
+                <li><a href="#">SideBySide frižideri</a></li>
+                <li><a href="#">Veš mašine</a></li>
+                <li><a href="#">Sušare</a></li>
+                <li><a href="#">Ugradne ploče</a></li>
+              </ul>
+            </div>
+          </div> -->
+
+          <div class="clearfix visible-xs"></div>
+
+          <div class="col-md-3 col-xs-6">
+            <div class="footer">
+              <h3 class="footer-title">Kontakt</h3>
+              <ul class="footer-links">
+                <li>
+                  <a href="javascript:void(0)"
+                    ><i class="fa fa-map-marker"></i>Zdravka Čelara 3</a
+                  >
+                </li>
+                <li>
+                  <a href="javascript:void(0)"
+                    ><i class="fa fa-phone"></i>+381-95-51-84</a
+                  >
+                </li>
+                <li>
+                  <a href="javascript:void(0)"
+                    ><i class="fa fa-envelope-o"></i
+                    >milos.resanovic.7.20@ict.edu.rs</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-xs-6">
+            <div class="footer">
+              <h3 class="footer-title">Linkovi</h3>
+              <ul class="footer-links">
+                <li><a href="index.html">Početna</a></li>
+                <li><a href="store.html">Proizvodi</a></li>
+                <li><a href="cart.html">Korpa</a></li>
+                <li><a href="checkout.html">Plaćanje</a></li>
+                <li><a href="dokumentacijaMR.pdf" target="_blank">Dokumentacija</a></li>
+                <li>
+                  <a  href="https://milosresanovic.github.io/mrportfolio/" target="_blank">O autoru</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="bottom-footer" class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <ul class="footer-payments">
+              <li>
+                <a href="#"><i class="fa fa-cc-visa"></i></a>
+              </li>
+              <li>
+                <a href="#"><i class="fa fa-credit-card"></i></a>
+              </li>
+              <li>
+                <a href="#"><i class="fa fa-cc-paypal"></i></a>
+              </li>
+              <li>
+                <a href="#"><i class="fa fa-cc-mastercard"></i></a>
+              </li>
+              <li>
+                <a href="#"><i class="fa fa-cc-discover"></i></a>
+              </li>
+              <li>
+                <a href="#"><i class="fa fa-cc-amex"></i></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    `
+    $("#footer").html(html);
 }
 
